@@ -1,4 +1,4 @@
-module ldap
+module github.com/Asura1992/ldap
 
 go 1.20
 
